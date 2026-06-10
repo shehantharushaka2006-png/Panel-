@@ -1,0 +1,6 @@
+{
+  "name": "pavin cheats 90%",
+  "description": "Tactical custom sensitivity alignment workspace and simulator with passcode lock security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
